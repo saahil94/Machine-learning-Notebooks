@@ -1,0 +1,65 @@
+home_team,away_team,City,Stadium,Coordinates_match1,Coordinates_match2,Coordinate_home1,Coordinate_home2,Coordinate_away1,Coordinate_away2
+Russia,Saudi Arabia,Moscow,Luzhniki Stadium,55.7166509,37.5682522,55.75222222,37.6155556,9.05777778,7.495
+Egypt,Uruguay,Yekaterinburg,Ekaterinburg Arena,56.8298095,60.5594547,31.20166667,29.91555556,6.12861111,1.22138889
+Morocco,Iran,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,13.47555556,144.7458333,35.69416667,51.42138889
+Portugal,Spain,Sochi,Fisht Stadium,43.4020114,39.9557089,31.89944444,35.205,24.6875,46.72166667
+France,Australia,Kazan,Kazan Arena,55.820983,49.1609661,48.85333333,2.3486111,40.18111111,44.51361111
+Argentina,Iceland,Moscow,Spartak Stadium,55.8105199,37.7103318,-34.61305556,-58.37722222,64.13527778,-21.89527778
+Peru,Denmark,Saransk,Mordovia Arena,54.1817948,45.2038514,31.89944444,35.205,39.9075,116.3972222
+Croatia,Nigeria,Kaliningrad,Kaliningrad Stadium,54.6981568,20.5338588,45.81444444,15.97777778,9.05777778,7.495
+Costa Rica,Serbia,Samara,Samara Arena,53.2781455,50.238854,-21.20777778,-159.7805556,9.05777778,7.495
+Germany,Mexico,Moscow,Luzhniki Stadium,55.7166509,37.5682522,52.52416667,13.41027778,35.89416667,14.42722222
+Brazil,Switzerland,Rostov-on-Don,Rostov Arena,47.209581,39.7384242,-15.77972222,-47.92972222,17.29527778,-62.725
+Sweden,South Korea,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,59.36527778,18.00722222,24.6875,46.72166667
+Belgium,Panama,Sochi,Fisht Stadium,43.4020114,39.9557089,50.85027778,4.34861111,9.05777778,7.495
+Tunisia,England,Volgograd,Volgograd Arena,48.7341949,44.5483448,10.6666667,-61.51888889,39.9075,116.3972222
+Colombia,Japan,Saransk,Mordovia Arena,54.1817948,45.2038514,10.96833333,-74.77833333,35.68944444,139.6916667
+Poland,Senegal,Moscow,Spartak Stadium,55.8105199,37.7103318,31.89944444,35.205,9.05777778,7.495
+Russia,Egypt,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,55.75222222,37.6155556,39.9075,116.3972222
+Portugal,Morocco,Moscow,Luzhniki Stadium,55.7166509,37.5682522,31.89944444,35.205,47.00555556,28.8575
+Uruguay,Saudi Arabia,Rostov-on-Don,Rostov Arena,47.209581,39.7384242,10.6666667,-61.51888889,9.05777778,7.495
+Iran,Spain,Kazan,Kazan Arena,55.820983,49.1609661,35.69416667,51.42138889,24.6875,46.72166667
+Denmark,Australia,Samara,Samara Arena,53.2781455,50.238854,55.67583333,12.56527778,40.18111111,44.51361111
+France,Peru,Yekaterinburg,Ekaterinburg Arena,56.8298095,60.5594547,48.85333333,2.3486111,9.05777778,7.495
+Argentina,Croatia,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,-34.61305556,-58.37722222,-4.26611111,15.28305556
+Brazil,Costa Rica,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,-15.77972222,-47.92972222,-4.26611111,15.28305556
+Nigeria,Iceland,Volgograd,Volgograd Arena,48.7341949,44.5483448,9.05777778,7.495,64.13527778,-21.89527778
+Serbia,Switzerland,Kaliningrad,Kaliningrad Stadium,54.6981568,20.5338588,6.76333333,-58.17583333,17.29527778,-62.725
+Belgium,Tunisia,Moscow,Spartak Stadium,55.8105199,37.7103318,50.85027778,4.34861111,6.12861111,1.22138889
+South Korea,Mexico,Rostov-on-Don,Rostov Arena,47.209581,39.7384242,6.76333333,-58.17583333,35.89416667,14.42722222
+Germany,Sweden,Sochi,Fisht Stadium,43.4020114,39.9557089,52.52416667,13.41027778,17.29527778,-62.725
+England,Panama,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,51.50833333,0.12555556,9.05777778,7.495
+Japan,Senegal,Yekaterinburg,Ekaterinburg Arena,56.8298095,60.5594547,35.68944444,139.6916667,9.05777778,7.495
+Poland,Colombia,Kazan,Kazan Arena,55.820983,49.1609661,31.89944444,35.205,12.10666667,15.04416667
+Uruguay,Russia,Samara,Samara Arena,53.2781455,50.238854,10.6666667,-61.51888889,9.05777778,7.495
+Saudi Arabia,Egypt,Volgograd,Volgograd Arena,48.7341949,44.5483448,6.76333333,-58.17583333,39.9075,116.3972222
+Iran,Portugal,Saransk,Mordovia Arena,54.1817948,45.2038514,35.69416667,51.42138889,9.05777778,7.495
+Spain,Morocco,Kaliningrad,Kaliningrad Stadium,54.6981568,20.5338588,6.76333333,-58.17583333,47.00555556,28.8575
+Denmark,France,Moscow,Luzhniki Stadium,55.7166509,37.5682522,55.67583333,12.56527778,60.16944444,24.93527778
+Australia,Peru,Sochi,Fisht Stadium,43.4020114,39.9557089,-33.86777778,151.2072222,9.05777778,7.495
+Nigeria,Argentina,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,9.05777778,7.495,0.22972222,-78.52472222
+Iceland,Croatia,Rostov-on-Don,Rostov Arena,47.209581,39.7384242,11.56222222,104.9158333,-4.26611111,15.28305556
+Mexico,Sweden,Yekaterinburg,Ekaterinburg Arena,56.8298095,60.5594547,19.42833333,-99.1275,17.29527778,-62.725
+South Korea,Germany,Kazan,Kazan Arena,55.820983,49.1609661,6.76333333,-58.17583333,60.16944444,24.93527778
+Serbia,Brazil,Moscow,Spartak Stadium,55.8105199,37.7103318,6.76333333,-58.17583333,44.20166667,17.90388889
+Switzerland,Costa Rica,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,15.5516667,32.5322222,-4.26611111,15.28305556
+Japan,Poland,Volgograd,Volgograd Arena,48.7341949,44.5483448,35.68944444,139.6916667,9.05777778,7.495
+Senegal,Colombia,Samara,Samara Arena,53.2781455,50.238854,6.76333333,-58.17583333,12.10666667,15.04416667
+Panama,Tunisia,Saransk,Mordovia Arena,54.1817948,45.2038514,8.99333333,-79.51972222,6.12861111,1.22138889
+England,Belgium,Kaliningrad,Kaliningrad Stadium,54.6981568,20.5338588,51.50833333,0.12555556,54.22777778,28.505
+,,Kazan,Kazan Arena,55.820983,49.1609661,,,,
+,,Sochi,Fisht Stadium,43.4020114,39.9557089,,,,
+,,Moscow,Luzhniki Stadium,55.7166509,37.5682522,,,,
+,,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,,,,
+,,Samara,Samara Arena,53.2781455,50.238854,,,,
+,,Rostov-on-Don,Rostov Arena,47.209581,39.7384242,,,,
+,,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,,,,
+,,Moscow,Spartak Stadium,55.8105199,37.7103318,,,,
+,,Nizhny Novgorod,Nizhny Novgorod Stadium,56.3372872,43.9632507,,,,
+,,Kazan,Kazan Arena,55.820983,49.1609661,,,,
+,,Samara,Samara Arena,53.2781455,50.238854,,,,
+,,Sochi,Fisht Stadium,43.4020114,39.9557089,,,,
+,,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,,,,
+,,Moscow,Luzhniki Stadium,55.7166509,37.5682522,,,,
+,,Saint Petersburg,Saint Petersburg Stadium,59.972728,30.2214045,,,,
+,,Moscow,Luzhniki Stadium,55.7166509,37.5682522,,,,
